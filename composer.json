@@ -1,5 +1,5 @@
 {
-    "name": "cloudstudio/resource-generator",
+    "name": "chiwex/resource-generator",
     "description": "Resource Generator for Laravel Nova",
     "keywords": [
         "resource",
@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel/nova": "*",
+        "chiwex/nova": "*",
         "doctrine/dbal": "^2.8"
     },
     "require-dev": {
